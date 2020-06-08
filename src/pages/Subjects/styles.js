@@ -12,7 +12,7 @@ const Styles = StyleSheet.create({
     },
 
     title: {
-        color: '#fff',
+        color: '#05c46b',
         marginTop: '5%',
         fontWeight: 'bold',
         fontSize: 26,
@@ -28,16 +28,16 @@ const Styles = StyleSheet.create({
     },
     
     videoButton: {
-        borderTopColor: '#D3D3D3',
+        borderTopColor: '#05c46b',
         borderTopWidth: 1,
-        borderBottomColor: '#D3D3D3',
+        borderBottomColor: '#05c46b',
         borderBottomWidth: 1,
         padding: '5%',
         flexDirection: 'row'
     },
 
     titleVideo: {
-        color: '#fff',
+        color: '#485460',
         marginLeft: '2%',
         fontSize: 15,
         fontWeight: 'bold'

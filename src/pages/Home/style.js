@@ -12,7 +12,7 @@ const Styles = StyleSheet.create({
     },
 
     title: {
-        color: '#fff',
+        color: '#808e9b',
         marginTop: '5%',
         fontWeight: 'bold',
         fontSize: 26,
@@ -28,16 +28,16 @@ const Styles = StyleSheet.create({
     },
     
     categoryButton: {
-        borderTopColor: '#D3D3D3',
+        borderTopColor: '#05c46b',
         borderTopWidth: 1,
-        borderBottomColor: '#D3D3D3',
+        borderBottomColor: '#05c46b',
         borderBottomWidth: 1,
         padding: '5%',
         alignItems: 'center'
     },
 
     titleButtonCategory: {
-        color: '#fff'
+        color: '#808e9b'
     },
 
     list: {

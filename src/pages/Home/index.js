@@ -3,7 +3,7 @@ import { View, Text, Image, FlatList, TouchableOpacity } from 'react-native';
 
 import subjects from '../Data/Subjects.json';
 import Styles from './style';
-import Logo from '../../assets/logo.png';
+import Logo from '../../assets/logoyou.png';
 
 export default function Home({ navigation }) {
 

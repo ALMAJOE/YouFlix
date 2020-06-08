@@ -10,7 +10,7 @@ const Styles = StyleSheet.create({
     },
 
     title: {
-        color: '#fff',
+        color: '#05c46b',
         marginTop: '5%',
         fontWeight: 'bold',
         fontSize: 26,
